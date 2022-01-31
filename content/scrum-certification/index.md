@@ -1,0 +1,8 @@
+---
+title: Scrum Certification Course
+content_type: project
+submission_type: link
+---
+
+Complete the [Scrum Certification Course](https://www.udemy.com/course/scrum-certification/) once you have completed it upload a screenshot showing that it is complete to your Google Drive and submit.
+
