@@ -1,7 +1,7 @@
 ---
 content_type: course
 eleventyNavigation:
-  title: Professional Scrum Master
+  title: Professional Scrum Master 1 Outline
 title: Professional Scrum Master Syllabus Outline
 ---
 
