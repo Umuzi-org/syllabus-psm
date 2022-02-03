@@ -4,5 +4,9 @@ content_type: project
 submission_type: link
 ---
 
-Complete the [Scrum Master Training](https://www.udemy.com/course/scrum-master-training/) once you have completed it upload a screenshot showing that it is complete to your Google Drive and submit.
+The purpose of you doing this specific course is to see and learn how scrum can be practiced in industry, this will further solidify your understanding of the theory, but will also teach you about implementation in industry.
+
+Being a scrum master is not only about understanding scrum but putting it into practice and teaching others about the best practices. 
+
+Complete the [Scrum Master Training Course](https://www.udemy.com/course/scrum-master-training/). Once you have completed it upload a screenshot showing that it is complete to your Google Drive and submit.
 

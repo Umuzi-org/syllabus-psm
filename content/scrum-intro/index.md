@@ -3,12 +3,14 @@ title: Introduction to Scrum
 content_type: topic
 ---
 
-Go through all the below links in detail, you will be revisiting them throughout your learning.
+Go through all the below links in detail, you will be revisiting them throughout your learning. 
 
-[Agile Manifesto](https://agilemanifesto.org/)
+Early scrum certifications focus a lot on the scrum and agile knowledge, this means you need to learn the teams and theory well.
 
-[What is scrum](https://www.scrum.org/resources/what-is-scrum)
+ - [Agile Manifesto](https://agilemanifesto.org/)
 
-[Scrum Glossary](https://www.scrum.org/resources/what-is-scrum)
+ - [What is scrum](https://www.scrum.org/resources/what-is-scrum)
 
-[Scrum Guide](https://www.scrum.org/resources/scrum-guide)
+ - [Scrum Glossary](https://www.scrum.org/resources/what-is-scrum)
+
+ - [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
