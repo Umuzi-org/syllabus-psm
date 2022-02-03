@@ -1,6 +1,7 @@
 runtime: python27
 threadsafe: true
 default_expiration: "30d"
+service: professional-scrum-master
 
 handlers:
   - url: /(.*\.(appcache|manifest))

@@ -1,9 +1,12 @@
 ---
-title: Eleventy Tilde Starter
-eleventyNavigation: 
-    key: "/"
-    title: "Home"
+title: Professional scrum master syllabus
+eleventyNavigation:
+  key: "/"
+  title: "Home"
 ---
 
+This site will give you all the things you need to know to pass your PSM exam.
 
-This starter has a few things built in. All features are demod on seperate pages. Just navigate around using the table of contents to see all feature demos
+To see the syllabus outline, go here:
+
+{% contentLink collections "content/syllabus-outline" "none" %}
