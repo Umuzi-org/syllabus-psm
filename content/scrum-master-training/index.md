@@ -8,5 +8,5 @@ The purpose of you doing this specific course is to see and learn how scrum can 
 
 Being a scrum master is not only about understanding scrum but putting it into practice and teaching others about the best practices. 
 
-Complete the [Scrum Master Training Course](https://www.udemy.com/course/scrum-master-training/). Once you have completed it upload a screenshot showing that it is complete to your Google Drive and submit.
+Complete the [Scrum master training course](https://www.udemy.com/course/scrum-master-training/). Once you have completed it upload a screenshot showing that it is complete to your Google Drive and submit.
 

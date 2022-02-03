@@ -7,10 +7,10 @@ Go through all the below links in detail, you will be revisiting them throughout
 
 Early scrum certifications focus a lot on the scrum and agile knowledge, this means you need to learn the teams and theory well.
 
- - [Agile Manifesto](https://agilemanifesto.org/)
+ - [Agile manifesto](https://agilemanifesto.org/)
 
  - [What is scrum](https://www.scrum.org/resources/what-is-scrum)
 
- - [Scrum Glossary](https://www.scrum.org/resources/what-is-scrum)
+ - [Scrum glossary](https://www.scrum.org/resources/what-is-scrum)
 
- - [Scrum Guide](https://www.scrum.org/resources/scrum-guide)
+ - [Scrum guide](https://www.scrum.org/resources/scrum-guide)
