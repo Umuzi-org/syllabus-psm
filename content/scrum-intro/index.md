@@ -1,6 +1,7 @@
 ---
-title: Introduction to Scrum
+_db_id: 738
 content_type: topic
+title: Introduction to Scrum
 ---
 
 Go through all the below links in detail, you will be revisiting them throughout your learning. 

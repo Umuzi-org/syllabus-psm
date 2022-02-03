@@ -1,7 +1,8 @@
 ---
-title: Product owner learning pathway
+_db_id: 740
 content_type: project
 submission_type: link
+title: Product owner learning pathway
 ---
 
 In this section you will be gaining a better understanding of the purpose and responsibilities of a product owner. As a scrum master you will often be working with and coaching a product owner, so it is essential that you understand the differences in your roles. This is also tested in the examinations.

@@ -1,7 +1,8 @@
 ---
-title: Scrum Master Learning Pathway
+_db_id: 737
 content_type: project
 submission_type: link
+title: Scrum Master Learning Pathway
 ---
 
 In this section you will once again be revising the purpose and knowledge on becoming a scrum master, spaced repetition is essential to solidifying knowledge, and solidifying knowledge is essential to passing examinations.
